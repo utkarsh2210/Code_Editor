@@ -1,3 +1,14 @@
+# Code_Editor
+
+A code editor for creating and testing code snippets in HTML, CSS and Javascript. 
+It has been built using REACT JS.
+
+## Tools and libraries used
+
+1. React
+2. React-CodeMirror
+3. Fontawesome 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
